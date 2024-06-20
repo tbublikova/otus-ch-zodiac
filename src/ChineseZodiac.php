@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Otus\TestPackage;
+namespace Tbublikova\OtusChZodiac;
 
 class ChineseZodiac
 {
